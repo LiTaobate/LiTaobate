@@ -1,8 +1,7 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
-
+<!--
 <p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I am Tao Li." src="./assets/gh-readme-header.png" /></a></p>
-
-<br />
+-->
 
 I am Tao Li, a postgraduate in Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences :cn:.
 
