@@ -30,7 +30,7 @@ I am Tao Li, a postgraduate in Shenzhen Institute of Advanced Technology, Chines
 ## 一、机器人岗位面试知识汇总  👋
 
    - [机器人岗位面试问题记录](https://github.com/LiTaobate/ultrasound-litao/blob/master/interview.md)
-   - [主管面常见问题汇总]（https://github.com/LiTaobate/Github_Notebook/blob/main/Github_notebook/%E9%9D%A2%E8%AF%95%E9%9D%A2%E7%BB%8F%E6%80%BB%E7%BB%93/%E5%8D%8E%E4%B8%BA%E4%B8%BB%E7%AE%A1%E9%9D%A2.md）
+   - [主管面常见问题汇总](https://github.com/LiTaobate/Github_Notebook/blob/main/Github_notebook/%E9%9D%A2%E8%AF%95%E9%9D%A2%E7%BB%8F%E6%80%BB%E7%BB%93/%E5%8D%8E%E4%B8%BA%E4%B8%BB%E7%AE%A1%E9%9D%A2.md)
    
 ## 二、MuJoco仿真学习笔记 👋
    - [MuJoco软体模型搭建笔记](https://github.com/LiTaobate/Github_Notebook/blob/main/Github_notebook/Mujoco%20%E6%A8%A1%E6%8B%9F/MuJoco%E8%BD%AF%E4%BD%93%E4%BB%BF%E7%9C%9F%E6%A8%A1%E5%9E%8B%E7%AC%94%E8%AE%B0.md)
