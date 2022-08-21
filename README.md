@@ -60,6 +60,17 @@ I am Tao Li, a postgraduate in Shenzhen Institute of Advanced Technology, Chines
      - [Robosuite说明文档](http://robosuite.ai/docs/overview.html)     
      - [Robosuite的Github代码](https://github.com/ARISE-Initiative/robosuite)           
      - [Robosuite的论文](https://robosuite.ai/assets/whitepaper.pdf)    
+     
+   ### 1.1.2 Stable-Baselines3(ReinforceLearning) 
+   
+ ![image](https://user-images.githubusercontent.com/73519321/185783801-f62e2797-8e9b-433c-809b-f5dcc98442f2.png)
+ 
+   - [stable-baselines3说明文档](https://stable-baselines3.readthedocs.io/en/master/index.html#)      
+   - [stable-baselines3 Github 仓库](https://github.com/DLR-RM/stable-baselines3)           
+   - [stable-baselines3 论文](https://jmlr.org/papers/volume22/20-1364/20-1364.pdf)        
+   - [stable-baselines3-zoo](https://github.com/DLR-RM/rl-baselines3-zoo)     
+
+
       
    
 
