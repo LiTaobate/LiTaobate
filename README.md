@@ -51,13 +51,13 @@ I am Tao Li, a postgraduate in Shenzhen Institute of Advanced Technology, Chines
 
 # Learning materials⚡
 ##  1、机器人相关学习资料
-   ### ROS基础
-   ### Mujoco基础
-   - [Robosuite](http://robosuite.ai/)    
-    		    
-   	- [Robosuite说明文档](http://robosuite.ai/docs/overview.html)   
-      - [Robosuite的Github代码](https://github.com/ARISE-Initiative/robosuite)       
-      - [Robosuite的论文](https://robosuite.ai/assets/whitepaper.pdf)   
+   ### 1.1 ROS基础
+   #### 1.1.1 Mujoco基础   
+   <img width="702" alt="截屏2022-08-20 17 38 58" src="https://user-images.githubusercontent.com/73519321/185778408-73d55fd2-0cce-4610-a344-144e3a08d93f.png">
+   - [Robosuite](http://robosuite.ai/)      
+     - [Robosuite说明文档](http://robosuite.ai/docs/overview.html)     
+     - [Robosuite的Github代码](https://github.com/ARISE-Initiative/robosuite)       
+     - [Robosuite的论文](https://robosuite.ai/assets/whitepaper.pdf)   
       
    
 
