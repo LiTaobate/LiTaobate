@@ -30,6 +30,7 @@ I am Tao Li, a postgraduate in Shenzhen Institute of Advanced Technology, Chines
 ### 1、机器人岗位面试知识汇总  👋
 
    - [机器人岗位面试问题记录](https://github.com/LiTaobate/ultrasound-litao/blob/master/interview.md)
+   
    - [主管面常见问题汇总](https://github.com/LiTaobate/Github_Notebook/blob/main/Github_notebook/%E9%9D%A2%E8%AF%95%E9%9D%A2%E7%BB%8F%E6%80%BB%E7%BB%93/%E5%8D%8E%E4%B8%BA%E4%B8%BB%E7%AE%A1%E9%9D%A2.md)
    
 ### 2、MuJoco仿真学习笔记 👋
@@ -49,10 +50,19 @@ I am Tao Li, a postgraduate in Shenzhen Institute of Advanced Technology, Chines
    - [UR5e机械臂路径规划](https://github.com/LiTaobate/Github_Notebook/blob/main/Github_notebook/UR5e%E6%9C%BA%E6%A2%B0%E8%87%82%E6%8E%A7%E5%88%B6/%E8%BD%A8%E8%BF%B9%E8%A7%84%E5%88%92.md)
 
 # Learning materials⚡
-##  机器人相关学习资料
+##  1、机器人相关学习资料
    ### ROS基础
    ### Mujoco基础
-        Robosuite
+   
+        ![Uploading 截屏2022-08-20 17.38.58.png…]()   
+        
+        - [Robosuite](http://robosuite.ai/)
+        
+          - [Robosuite说明文档](http://robosuite.ai/docs/overview.html)
+          
+          - [Robosuite的Github代码](https://github.com/ARISE-Initiative/robosuite)
+          
+          - [Robosuite的论文](https://robosuite.ai/assets/whitepaper.pdf)
       
    
 
