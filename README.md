@@ -5,11 +5,11 @@
 
 I am Tao Li, a postgraduate in Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences :cn:.
 
-- :seedling: I’m currently working on **ReinforceLearning**.
+- :seedling: I’m currently working on **ReinforceLearning and Robot control algorithm**.
 
 - :dancers: I’m looking to collaborate with partners on the similar research area.
 
-- :speech_balloon: Ask me anything related to **ReinforceLearning**.
+- :speech_balloon: Ask me anything related to **ReinforceLearning and Robot control algorithm**.
 
 - :mailbox: How to reach me: [**litao_bate@163.com**](mailto:litao_bate@163.com).
 
