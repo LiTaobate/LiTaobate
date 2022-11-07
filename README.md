@@ -49,6 +49,8 @@ I am Tao Li, a postgraduate in Shenzhen Institute of Advanced Technology, Chines
    - [ROS与UR机械臂](https://github.com/LiTaobate/Github_Notebook/blob/main/Github_notebook/ROS%20robot/ROS%20%E4%B8%8EUR%E6%9C%BA%E6%A2%B0%E8%87%82.md)  
 ### 4、UR5e机械臂学习笔记👋
    - [UR5e机械臂路径规划](https://github.com/LiTaobate/Github_Notebook/blob/main/Github_notebook/UR5e%E6%9C%BA%E6%A2%B0%E8%87%82%E6%8E%A7%E5%88%B6/%E8%BD%A8%E8%BF%B9%E8%A7%84%E5%88%92.md)
+   - [机械臂的阻抗和导纳控制](https://github.com/LiTaobate/Github_Notebook/blob/main/Github_notebook/UR5e%E6%9C%BA%E6%A2%B0%E8%87%82%E6%8E%A7%E5%88%B6/%E9%98%BB%E6%8A%97%E6%8E%A7%E5%88%B6%E5%92%8C%E5%AF%BC%E7%BA%B3%E6%8E%A7%E5%88%B6.md)
+  
 
 # Learning materials⚡
 ##  1、机器人相关学习资料
