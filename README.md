@@ -1,27 +1,73 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
-<!--
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I am Tao Li." src="./assets/gh-readme-header.png" /></a></p>
--->
+<h1 align="center">Hi there, I'm Tao Li 👋</h1>
+<p align="center">
+  <b>Robotics | Reinforcement Learning | Robot Control</b>
+</p>
+<p align="center">
+  Postgraduate at Shenzhen Institute of Advanced Technology,<br>
+  Chinese Academy of Sciences 🇨🇳
+</p>
+<p align="center">
+  <a href="mailto:litao_bate@163.com">
+    <img src="https://img.shields.io/badge/Email-litao__bate@163.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/LiTaobate">
+    <img src="https://img.shields.io/badge/GitHub-LiTaobate-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-I am Tao Li, a postgraduate in Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences :cn:.
+---
+## About Me
 
-- :seedling: I’m currently working on **ReinforceLearning and Robot control algorithm**.
+- 🌱 Currently focused on **Reinforcement Learning** and **robot control algorithms**
+- 🤝 Open to collaboration in **robotics**, **RL**, and **control**
+- 💬 Feel free to ask me about **ROS**, **MuJoCo**, **isaaclab**, **Isaacsim**, and **robot learning**
+- 📫 Contact: **litao_bate@163.com**
+  
+## Tech Focus
 
-- :dancers: I’m looking to collaborate with partners on the similar research area.
+<p>
+  <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white" />
+  <img src="https://img.shields.io/badge/MuJoCo-111111?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gazebo-2F3545?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Isaac%20Sim-76B900?style=flat-square&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+</p>
 
-- :speech_balloon: Ask me anything related to **ReinforceLearning and Robot control algorithm**.
 
-- :mailbox: How to reach me: [**litao_bate@163.com**](mailto:litao_bate@163.com).
+### GitHub Stats
 
-### Github Stats
+<p align="left">
+  <img src="https://img.shields.io/badge/Public%20Repos-27-2ea44f?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Followers-21-1f6feb?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Stars-23-f59e0b?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-RL%20%26%20Robot%20Control-8b5cf6?style=for-the-badge" />
+</p>
 
-| <a href="https://github.com/LiTaobate"><img align="center" src="https://github-readme-stats.vercel.app/api?username=LiTaobate&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/LiTaobate"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiTaobate&layout=compact&theme=buefy&hide_border=true" /></a> |
-| - | - |
+- Research area: **Reinforcement Learning, Robot Control, Surgical Robotics**
+
+- Institution: **University of Chinese Academy of Sciences**
+
+- GitHub homepage: [LiTaobate](https://github.com/LiTaobate)
 
 ### Top Repositories
 
-<a href="https://github.com/LiTaobate/ultrasound-litao"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LiTaobate&repo=ultrasound-litao&theme=buefy"/></a>
-<a href="https://github.com/LiTaobate/ur5_ROS-Gazebo"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LiTaobate&repo=ur5_ROS-Gazebo&theme=buefy"/></a>
+| Repository | Description | Tech |
+| --- | --- | --- |
+| [Github_Notebook](https://github.com/LiTaobate/Github_Notebook) | Personal notebook for robotics, ROS, MuJoCo and interview notes | Notes / Robotics |
+| [MuJoCo_impedance_control](https://github.com/LiTaobate/MuJoCo_impedance_control) | Impedance and admittance control for UR5e | C++ / Control |
+| [ultrasound-litao](https://github.com/LiTaobate/ultrasound-litao) | Research and notes related to robotic ultrasound | Robotics / Research |
+| [ur5_ROS-Gazebo](https://github.com/LiTaobate/ur5_ROS-Gazebo) | UR5 simulation and control with ROS + Gazebo | ROS / Gazebo |
+| [OmniIsaacGymEnvs-UR10Reacher](https://github.com/LiTaobate/OmniIsaacGymEnvs-UR10Reacher) | UR10 reacher reinforcement learning environment | Isaac / RL |
+
+### Featured Projects
+
+- [Github_Notebook](https://github.com/LiTaobate/Github_Notebook): accumulated learning notes on robotics, ROS, MuJoCo, and interviews
+- [MuJoCo_impedance_control](https://github.com/LiTaobate/MuJoCo_impedance_control): impedance/admittance control implementations for UR5e
+- [ur5_ROS-Gazebo](https://github.com/LiTaobate/ur5_ROS-Gazebo): robot simulation and control experiments based on ROS and Gazebo
+
+
 
 # GitHubNoteBook⚡
 
