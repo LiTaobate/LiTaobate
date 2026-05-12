@@ -73,10 +73,9 @@
 
 # CONTENT
 
-### 1、机器人岗位面试知识汇总  👋
+### 1、机器人岗位知识问答汇总  👋
 
-   - [机器人岗位面试问题记录](https://github.com/LiTaobate/ultrasound-litao/blob/master/interview.md)   
-   - [主管面常见问题汇总](https://github.com/LiTaobate/Github_Notebook/blob/main/Github_notebook/%E9%9D%A2%E8%AF%95%E9%9D%A2%E7%BB%8F%E6%80%BB%E7%BB%93/%E5%8D%8E%E4%B8%BA%E4%B8%BB%E7%AE%A1%E9%9D%A2.md)  
+   - [机器人相关技术问答](https://github.com/LiTaobate/ultrasound-litao/blob/master/interview.md)   
    - [百度 提前批面试记录](https://github.com/LiTaobate/Github_Notebook/blob/main/Github_notebook/%E9%9D%A2%E8%AF%95%E9%9D%A2%E7%BB%8F%E6%80%BB%E7%BB%93/%E7%99%BE%E5%BA%A6%E6%8F%90%E5%89%8D%E6%89%B9.md) 
    
 ### 2、MuJoco仿真学习笔记 👋
